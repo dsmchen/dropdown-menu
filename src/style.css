@@ -164,3 +164,7 @@ nav {
   padding-top: 10px;
   display: none;
 }
+
+.shown {
+  display: block;
+}
