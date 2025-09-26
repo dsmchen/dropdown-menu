@@ -1,6 +1,6 @@
-# template
+# dropdown-menu
 
-[The Odin Project: Template Repositories](https://www.theodinproject.com/lessons/node-path-javascript-revisiting-webpack#template-repositories)
+[The Odin Project: Dropdown Menu](https://www.theodinproject.com/lessons/node-path-javascript-dynamic-user-interface-interactions)
 
 ## Resources
 
